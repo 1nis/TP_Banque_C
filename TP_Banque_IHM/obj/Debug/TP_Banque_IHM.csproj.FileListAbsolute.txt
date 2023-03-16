@@ -1,0 +1,11 @@
+C:\Users\elpip\source\repos\TP_Banque_IHM\bin\Debug\TP_Banque_IHM.exe.config
+C:\Users\elpip\source\repos\TP_Banque_IHM\bin\Debug\TP_Banque_IHM.exe
+C:\Users\elpip\source\repos\TP_Banque_IHM\bin\Debug\TP_Banque_IHM.pdb
+C:\Users\elpip\source\repos\TP_Banque_IHM\obj\Debug\TP_Banque_IHM.csproj.AssemblyReference.cache
+C:\Users\elpip\source\repos\TP_Banque_IHM\obj\Debug\TP_Banque_IHM.csproj.SuggestedBindingRedirects.cache
+C:\Users\elpip\source\repos\TP_Banque_IHM\obj\Debug\TP_Banque_IHM.frmBanque.resources
+C:\Users\elpip\source\repos\TP_Banque_IHM\obj\Debug\TP_Banque_IHM.Properties.Resources.resources
+C:\Users\elpip\source\repos\TP_Banque_IHM\obj\Debug\TP_Banque_IHM.csproj.GenerateResource.cache
+C:\Users\elpip\source\repos\TP_Banque_IHM\obj\Debug\TP_Banque_IHM.csproj.CoreCompileInputs.cache
+C:\Users\elpip\source\repos\TP_Banque_IHM\obj\Debug\TP_Banque_IHM.exe
+C:\Users\elpip\source\repos\TP_Banque_IHM\obj\Debug\TP_Banque_IHM.pdb
